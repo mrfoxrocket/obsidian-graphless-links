@@ -11,4 +11,8 @@ It looks like a regular link, except that it doesn't create an edge in the graph
 
 Does not support Markdown links, only WikiLinks.
 
+Fork adds autocomplete functionality.
+
+Forked from [obsidian-graphhless-links](https://github.com/Talndir/obsidian-graphless-links)
+
 Some portions of code adapted from [Frontmatter Links](https://github.com/Trikzon/obsidian-frontmatter-links). Some code contributed by kotaindah55 from the Obsidian discord.

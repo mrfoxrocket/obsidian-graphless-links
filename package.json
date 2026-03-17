@@ -1,6 +1,6 @@
 {
-	"name": "obsidian-graphless-links",
-	"version": "1.4.0",
+	"name": "obsidian-ghost-links",
+	"version": "1.1.1",
 	"description": "An Obsidian plugin that adds a new kind of link that doesn't appear in the graph.",
 	"main": "main.js",
 	"scripts": {

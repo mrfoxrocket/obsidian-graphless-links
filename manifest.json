@@ -1,11 +1,11 @@
 {
-	"id": "graphless-links-original",
-	"name": "Graphless Links Original",
-	"version": "1.4.0",
+	"id": "ghost-links",
+	"name": "Ghost Links",
+	"version": "1.1.1",
 	"minAppVersion": "1.5.0",
 	"description": "Adds a new kind of link that doesn't appear in the graph.",
-	"author": "Omar Tahir",
-	"authorUrl": "",
+	"author": "mrfoxrocket",
+	"authorUrl": "https://github.com/mrfoxrocket/ghost-links",
 	"fundingUrl": "",
 	"isDesktopOnly": false
 }
